@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistleofstjames1897mayo_0008.png"; bbox 0 0 1974 3298; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 792 1522 1374 1599">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 792 1522 1374 1599">
+     <span class='ocr_line' id='line_1_1' title="bbox 792 1522 1374 1555; baseline 0 -8"><span class='ocrx_word' id='word_1_1' title='bbox 792 1524 935 1550; x_wconf 66' lang='lat' dir='ltr'>RICHARD</span> <span class='ocrx_word' id='word_1_2' title='bbox 954 1522 1035 1548; x_wconf 73' lang='lat' dir='ltr'>CLAY</span> <span class='ocrx_word' id='word_1_3' title='bbox 1052 1528 1114 1548; x_wconf 81' lang='lat' dir='ltr'><em>AND</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1132 1522 1213 1555; x_wconf 54' lang='lat' dir='ltr'>Son-s,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1235 1523 1374 1549; x_wconf 66' lang='lat' dir='ltr'><em>mezn,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 902 1578 1241 1599; baseline -0.003 0"><span class='ocrx_word' id='word_1_6' title='bbox 902 1579 1020 1599; x_wconf 77' lang='lat' dir='ltr'>LONDON</span> <span class='ocrx_word' id='word_1_7' title='bbox 1038 1578 1100 1597; x_wconf 65' lang='lat' dir='ltr'><em>mn</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1117 1580 1241 1599; x_wconf 72' lang='lat' dir='ltr'><strong>BUNGAY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 914 1673 1260 1755">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 914 1673 1260 1755">
+     <span class='ocr_line' id='line_1_3' title="bbox 922 1673 1238 1704; baseline 0 -6"><span class='ocrx_word' id='word_1_9' title='bbox 922 1674 998 1699; x_wconf 74' lang='lat' dir='ltr'><em>First</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1016 1673 1145 1704; x_wconf 60' lang='lat' dir='ltr'><em>mutim,</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1166 1675 1238 1699; x_wconf 76' lang='lat'>1892.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 914 1724 1260 1755; baseline 0 -5"><span class='ocrx_word' id='word_1_12' title='bbox 914 1724 1021 1751; x_wconf 79' lang='lat' dir='ltr'><em>Second</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1038 1724 1167 1755; x_wconf 77' lang='lat' dir='ltr'><em>Edition‚</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1187 1724 1260 1750; x_wconf 79' lang='grc'><strong>1897.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
